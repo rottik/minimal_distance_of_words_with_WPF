@@ -1,0 +1,13 @@
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\bin\Debug\DWTGUI.exe.config
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\bin\Debug\DWTGUI.exe
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\bin\Debug\DWTGUI.pdb
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\DWTGUI.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\MainWindow.baml
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\MainWindow.g.cs
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\App.g.cs
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\DWTGUI_MarkupCompile.cache
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\DWTGUI.g.resources
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\DWTGUI.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\DWTGUI.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\DWTGUI.exe
+c:\users\michal\documents\visual studio 2013\Projects\DWTGUI\DWTGUI\obj\Debug\DWTGUI.pdb
